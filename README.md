@@ -1,4 +1,12 @@
-### Hi there 👋
+###  ☕
+
+![CaioHamamura's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiohamamura&show_icons=true&theme=radical)
+
+- 🔭 I’m currently working as an IT Professor in the Federal Institute of São Paulo (Capivari campus).
+- 🌱 I’m currently learning everything I can manage to...
+- 👯 I’m looking to collaborate on open source projects focused on scientific tools and data science analysis.
+- 🤔 I’m looking for help with maintaining all the scientific tools and plugins I've created or participated in.
+- 📫 How to reach me: caiohamamura@gmail.com.
 
 <!--
 **caiohamamura/caiohamamura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
