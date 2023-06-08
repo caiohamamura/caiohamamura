@@ -37,6 +37,7 @@
 ### GIS:
 <div style="display:flex;">
  <img align="center" alt="QGIS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg">
+ <img align="center" alt="GDAL" height="30" width="30" src="https://gdal.org/_static/gdalicon.png"/>
 <img align="center" alt="PostGIS" height="30" width="40" src="https://postgis.net/brand.svg">
 <img align="center" alt="Geoserver" height="30" width="" src="https://geoserver.org/img/geoserver-logo.png"/>
 </div>
