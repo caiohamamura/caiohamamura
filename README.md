@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with maintaining all the scientific tools and plugins I've created or participated in.
 - 📫 How to reach me: caiohamamura@gmail.com.
 
-## What I teach:
+## What I teach
 
 <div style="display:flex;">
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -18,7 +18,7 @@
 <img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
 </div>
 
-## Other technologies I have some expertise on:
+## Other technologies I have some expertise on
 
 ### Data science: 
 <div style="display:flex;">
@@ -34,7 +34,7 @@
 <img align="center" alt="Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
-### GIS
+### GIS:
 <div style="display:flex;">
  <img align="center" alt="PostGIS" height="30" width="40" src="https://postgis.net/brand.svg">
 <img align="center" alt="PostGIS" height="30" width="40" src="https://postgis.net/brand.svg">
@@ -42,7 +42,7 @@
 </div>
 
 
-## Technologies I'm familiar with':
+## Technologies I'm familiar with'
 
 ### High performance: 
 <div style="display:flex;">
