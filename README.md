@@ -42,6 +42,16 @@
 <img align="center" alt="Geoserver" height="30" width="" src="https://geoserver.org/img/geoserver-logo.png"/>
 </div>
 
+### R-packages 
+[![:name status badge](https://caiohamamura.r-universe.dev/badges/:name)](https://caiohamamura.r-universe.dev/) [![:total status badge](https://caiohamamura.r-universe.dev/badges/:total)](https://caiohamamura.r-universe.dev/)
+ - radarBoxplot [![CRAN](https://www.r-pkg.org/badges/version/radarBoxplot)](https://CRAN.R-project.org/package=radarBoxplot)
+ - tabularMLC [![CRAN](https://www.r-pkg.org/badges/version/tabularMLC)](https://CRAN.R-project.org/package=tabularMLC)
+ - gdalBindings [![CRAN](https://www.r-pkg.org/badges/version/gdalBindings)](https://CRAN.R-project.org/package=gdalBindings)
+ - rTLsDeep [![CRAN](https://www.r-pkg.org/badges/version/rTLsDeep)](https://CRAN.R-project.org/package=rTLsDeep)
+ - leafR [![CRAN](https://www.r-pkg.org/badges/version/leafR)](https://CRAN.R-project.org/package=leafR)
+ - flightplanning [![flightplanning status badge](https://caiohamamura.r-universe.dev/badges/flightplanning)](https://caiohamamura.r-universe.dev/flightplanning)
+ - rGEDI [![rGEDI status badge](https://carlos-alberto-silva.r-universe.dev/badges/rGEDI)](https://carlos-alberto-silva.r-universe.dev/rGEDI)
+ - rICESat2Veg [![rGEDI status badge](https://carlos-alberto-silva.r-universe.dev/badges/rICESat2Veg)](https://carlos-alberto-silva.r-universe.dev/rICESat2Veg)
 
 ## Technologies I'm familiar with'
 
