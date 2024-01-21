@@ -44,7 +44,7 @@
 
 ### R-packages 
 [![:name status badge](https://caiohamamura.r-universe.dev/badges/:name)](https://caiohamamura.r-universe.dev/) [![:total status badge](https://caiohamamura.r-universe.dev/badges/:total)](https://caiohamamura.r-universe.dev/)
- - radarBoxplot [![CRAN](https://www.r-pkg.org/badges/version/radarBoxplot)](https://CRAN.R-project.org/package=radarBoxplot)
+ -  <img src="https://github.com/caiohamamura/radarBoxplot-R/blob/master/man/figures/logo.png?raw=true" align="center" height="30" /> radarBoxplot [![CRAN](https://www.r-pkg.org/badges/version/radarBoxplot)](https://CRAN.R-project.org/package=radarBoxplot)
  - tabularMLC [![CRAN](https://www.r-pkg.org/badges/version/tabularMLC)](https://CRAN.R-project.org/package=tabularMLC)
  - gdalBindings [![CRAN](https://www.r-pkg.org/badges/version/gdalBindings)](https://CRAN.R-project.org/package=gdalBindings)
  - rTLsDeep [![CRAN](https://www.r-pkg.org/badges/version/rTLsDeep)](https://CRAN.R-project.org/package=rTLsDeep)
