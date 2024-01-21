@@ -42,7 +42,7 @@
 <img align="center" alt="Geoserver" height="30" width="" src="https://geoserver.org/img/geoserver-logo.png"/>
 </div>
 
-### R-packages 
+### R-packages <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">:
 [![:name status badge](https://caiohamamura.r-universe.dev/badges/:name)](https://caiohamamura.r-universe.dev/) [![:total status badge](https://caiohamamura.r-universe.dev/badges/:total)](https://caiohamamura.r-universe.dev/)
  -  <img src="https://github.com/caiohamamura/radarBoxplot-R/blob/master/man/figures/logo.png?raw=true" align="center" height="30" /> radarBoxplot [![CRAN](https://www.r-pkg.org/badges/version/radarBoxplot)](https://CRAN.R-project.org/package=radarBoxplot)
  - tabularMLC [![CRAN](https://www.r-pkg.org/badges/version/tabularMLC)](https://CRAN.R-project.org/package=tabularMLC)
@@ -53,7 +53,7 @@
  - rGEDI [![rGEDI status badge](https://carlos-alberto-silva.r-universe.dev/badges/rGEDI)](https://carlos-alberto-silva.r-universe.dev/rGEDI)
  - rICESat2Veg [![rGEDI status badge](https://carlos-alberto-silva.r-universe.dev/badges/rICESat2Veg)](https://carlos-alberto-silva.r-universe.dev/rICESat2Veg)
 
-## Technologies I'm familiar with'
+## Technologies I'm familiar with
 
 ### High performance: 
 <div style="display:flex;">
