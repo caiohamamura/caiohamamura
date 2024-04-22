@@ -1,5 +1,7 @@
 ![CaioHamamura's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiohamamura&show_icons=true&theme=radical)
 
+[![:total status badge](https://caiohamamura.r-universe.dev/badges/:total)](https://caiohamamura.r-universe.dev/)
+
 - 🔭 I’m currently working as an IT Professor in the Federal Institute of São Paulo (Capivari campus).
 - 🌱 I’m currently learning everything I can manage to...
 - 👯 I’m looking to collaborate on open source projects focused on scientific tools and data science analysis.
