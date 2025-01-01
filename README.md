@@ -63,7 +63,7 @@
 <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 <img align="center" alt="Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 <img align="center" alt="OpenCL" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenCL_logo.svg">
-<img align="center" alt="Rust" height="30" width="40" src="https://www.rust-lang.org/static/images/rust-logo-blk.svg">
+<img align="center" alt="Rust" height="30" width="40" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/rust/rust-original.svg">
 </div>
 
 ### Server tools: 
