@@ -53,7 +53,7 @@
  - leafR [![CRAN](https://www.r-pkg.org/badges/version/leafR)](https://CRAN.R-project.org/package=leafR)
  - flightplanning [![flightplanning status badge](https://caiohamamura.r-universe.dev/badges/flightplanning)](https://caiohamamura.r-universe.dev/flightplanning)
  - rGEDI [![rGEDI status badge](https://carlos-alberto-silva.r-universe.dev/badges/rGEDI)](https://carlos-alberto-silva.r-universe.dev/rGEDI)
- - rICESat2Veg [![rGEDI status badge](https://carlos-alberto-silva.r-universe.dev/badges/rICESat2Veg)](https://carlos-alberto-silva.r-universe.dev/rICESat2Veg)
+ - ICESat2VegR [![ICESat2VegR status badge](https://carlos-alberto-silva.r-universe.dev/badges/ICESat2VegR)](https://carlos-alberto-silva.r-universe.dev/ICESat2VegR)
 
 ## Technologies I'm familiar with
 
