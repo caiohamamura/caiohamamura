@@ -89,4 +89,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#3685](https://github.com/nodemcu/nodemcu-firmware/pull/3685) in [nodemcu/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware)
+2. 🔒 Closed issue [#3684](https://github.com/nodemcu/nodemcu-firmware/issues/3684) in [nodemcu/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware)
+3. 💪 Opened PR [#3683](https://github.com/nodemcu/nodemcu-firmware/pull/3683) in [nodemcu/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware)
+4. ❗ Opened issue [#3682](https://github.com/nodemcu/nodemcu-firmware/issues/3682) in [nodemcu/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware)
 <!--END_SECTION:activity-->
