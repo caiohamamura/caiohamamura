@@ -89,8 +89,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3685](https://github.com/nodemcu/nodemcu-firmware/pull/3685#issuecomment-3234765814) in [nodemcu/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware)
-2. 🗣 Commented on [#3685](https://github.com/nodemcu/nodemcu-firmware/pull/3685#issuecomment-3233734673) in [nodemcu/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware)
-3. 💪 Opened PR [#3685](https://github.com/nodemcu/nodemcu-firmware/pull/3685) in [nodemcu/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware)
-4. 🔒 Closed issue [#3684](https://github.com/nodemcu/nodemcu-firmware/issues/3684) in [nodemcu/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware)
+1. 🗣 Commented on [#3683](https://github.com/nodemcu/nodemcu-firmware/pull/3683#issuecomment-3243519135) in [nodemcu/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware)
+2. 🗣 Commented on [#3687](https://github.com/nodemcu/nodemcu-firmware/pull/3687#issuecomment-3243455563) in [nodemcu/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware)
+3. 💪 Opened PR [#3687](https://github.com/nodemcu/nodemcu-firmware/pull/3687) in [nodemcu/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware)
+4. 🗣 Commented on [#3685](https://github.com/nodemcu/nodemcu-firmware/pull/3685#issuecomment-3234765814) in [nodemcu/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware)
 <!--END_SECTION:activity-->
