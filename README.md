@@ -89,8 +89,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#59](https://github.com/carlos-alberto-silva/rGEDI/issues/59#issuecomment-3324502457) in [carlos-alberto-silva/rGEDI](https://github.com/carlos-alberto-silva/rGEDI)
-2. 🔒 Closed issue [#59](https://github.com/carlos-alberto-silva/rGEDI/issues/59) in [carlos-alberto-silva/rGEDI](https://github.com/carlos-alberto-silva/rGEDI)
-3. 🗣 Commented on [#65](https://github.com/carlos-alberto-silva/rGEDI/issues/65#issuecomment-3324499991) in [carlos-alberto-silva/rGEDI](https://github.com/carlos-alberto-silva/rGEDI)
-4. 🔒 Closed issue [#65](https://github.com/carlos-alberto-silva/rGEDI/issues/65) in [carlos-alberto-silva/rGEDI](https://github.com/carlos-alberto-silva/rGEDI)
+1. 🔒 Closed issue [#68](https://github.com/carlos-alberto-silva/rGEDI/issues/68) in [carlos-alberto-silva/rGEDI](https://github.com/carlos-alberto-silva/rGEDI)
+2. 🗣 Commented on [#59](https://github.com/carlos-alberto-silva/rGEDI/issues/59#issuecomment-3324502457) in [carlos-alberto-silva/rGEDI](https://github.com/carlos-alberto-silva/rGEDI)
+3. 🔒 Closed issue [#59](https://github.com/carlos-alberto-silva/rGEDI/issues/59) in [carlos-alberto-silva/rGEDI](https://github.com/carlos-alberto-silva/rGEDI)
+4. 🗣 Commented on [#65](https://github.com/carlos-alberto-silva/rGEDI/issues/65#issuecomment-3324499991) in [carlos-alberto-silva/rGEDI](https://github.com/carlos-alberto-silva/rGEDI)
 <!--END_SECTION:activity-->
