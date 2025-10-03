@@ -89,8 +89,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1268](https://github.com/Mause/duckdb_engine/pull/1268#issuecomment-3349165898) in [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine)
-2. 🗣 Commented on [#1268](https://github.com/Mause/duckdb_engine/pull/1268#issuecomment-3349129564) in [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine)
-3. 🔒 Closed issue [#68](https://github.com/carlos-alberto-silva/rGEDI/issues/68) in [carlos-alberto-silva/rGEDI](https://github.com/carlos-alberto-silva/rGEDI)
-4. 🗣 Commented on [#59](https://github.com/carlos-alberto-silva/rGEDI/issues/59#issuecomment-3324502457) in [carlos-alberto-silva/rGEDI](https://github.com/carlos-alberto-silva/rGEDI)
+1. ❌ Closed PR [#3683](https://github.com/nodemcu/nodemcu-firmware/pull/3683) in [nodemcu/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware)
+2. 🗣 Commented on [#1268](https://github.com/Mause/duckdb_engine/pull/1268#issuecomment-3349165898) in [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine)
+3. 🗣 Commented on [#1268](https://github.com/Mause/duckdb_engine/pull/1268#issuecomment-3349129564) in [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine)
+4. 🔒 Closed issue [#68](https://github.com/carlos-alberto-silva/rGEDI/issues/68) in [carlos-alberto-silva/rGEDI](https://github.com/carlos-alberto-silva/rGEDI)
 <!--END_SECTION:activity-->
