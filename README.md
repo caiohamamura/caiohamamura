@@ -89,8 +89,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1268](https://github.com/Mause/duckdb_engine/pull/1268#issuecomment-3486293877) in [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine)
-2. 🗣 Commented on [#1268](https://github.com/Mause/duckdb_engine/pull/1268#issuecomment-3349165898) in [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine)
-3. 🗣 Commented on [#1268](https://github.com/Mause/duckdb_engine/pull/1268#issuecomment-3349129564) in [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine)
-4.  Labeled issue [#5](https://github.com/caiohamamura/rGEDIsimulator/issues/5) in [caiohamamura/rGEDIsimulator](https://github.com/caiohamamura/rGEDIsimulator)
+1. 💪 Opened PR [#1379](undefined) in [mlverse/torch](https://github.com/mlverse/torch)
+2. ❌ Closed PR [#1](undefined) in [caiohamamura/torch](https://github.com/caiohamamura/torch)
+3. 💪 Opened PR [#1](undefined) in [caiohamamura/torch](https://github.com/caiohamamura/torch)
+4. 🗣 Commented on [#1268](https://github.com/Mause/duckdb_engine/pull/1268#issuecomment-3486293877) in [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine)
 <!--END_SECTION:activity-->
