@@ -89,8 +89,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1379](undefined) in [mlverse/torch](https://github.com/mlverse/torch)
-2. ❌ Closed PR [#1](undefined) in [caiohamamura/torch](https://github.com/caiohamamura/torch)
-3. 💪 Opened PR [#1](undefined) in [caiohamamura/torch](https://github.com/caiohamamura/torch)
-4. 🗣 Commented on [#1268](https://github.com/Mause/duckdb_engine/pull/1268#issuecomment-3486293877) in [Mause/duckdb_engine](https://github.com/Mause/duckdb_engine)
+1. 🗣 Commented on [#1379](https://github.com/mlverse/torch/pull/1379#issuecomment-3519772695) in [mlverse/torch](https://github.com/mlverse/torch)
+2. 💪 Opened PR [#1379](undefined) in [mlverse/torch](https://github.com/mlverse/torch)
+3. ❌ Closed PR [#1](undefined) in [caiohamamura/torch](https://github.com/caiohamamura/torch)
+4. 💪 Opened PR [#1](undefined) in [caiohamamura/torch](https://github.com/caiohamamura/torch)
 <!--END_SECTION:activity-->
