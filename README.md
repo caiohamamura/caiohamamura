@@ -91,6 +91,6 @@
 <!--START_SECTION:activity-->
 1.  Labeled issue [#8288](https://github.com/pypi/support/issues/8288) in [pypi/support](https://github.com/pypi/support)
 2. ❗ Opened issue [#8288](https://github.com/pypi/support/issues/8288) in [pypi/support](https://github.com/pypi/support)
-3. 🗣 Commented on [#1379](https://github.com/mlverse/torch/pull/1379#issuecomment-3519772695) in [mlverse/torch](https://github.com/mlverse/torch)
-4. 💪 Opened PR [#1379](undefined) in [mlverse/torch](https://github.com/mlverse/torch)
+3. ❌ Merged PR [#1379](undefined) in [mlverse/torch](https://github.com/mlverse/torch)
+4. 🗣 Commented on [#1379](https://github.com/mlverse/torch/pull/1379#issuecomment-3519772695) in [mlverse/torch](https://github.com/mlverse/torch)
 <!--END_SECTION:activity-->
