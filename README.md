@@ -89,8 +89,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/caiohamamura/LenovoBatteryManagementSvc/issues/5#issuecomment-3820484981) in [caiohamamura/LenovoBatteryManagementSvc](https://github.com/caiohamamura/LenovoBatteryManagementSvc)
-2. 🔒 Closed issue [#5](https://github.com/caiohamamura/LenovoBatteryManagementSvc/issues/5) in [caiohamamura/LenovoBatteryManagementSvc](https://github.com/caiohamamura/LenovoBatteryManagementSvc)
-3. ❌ Merged PR [#1379](undefined) in [mlverse/torch](https://github.com/mlverse/torch)
+1. 💪 Opened PR [#1847](https://github.com/tzapu/WiFiManager/pull/1847) in [tzapu/WiFiManager](https://github.com/tzapu/WiFiManager)
+2. 🗣 Commented on [#5](https://github.com/caiohamamura/LenovoBatteryManagementSvc/issues/5#issuecomment-3820484981) in [caiohamamura/LenovoBatteryManagementSvc](https://github.com/caiohamamura/LenovoBatteryManagementSvc)
+3. 🔒 Closed issue [#5](https://github.com/caiohamamura/LenovoBatteryManagementSvc/issues/5) in [caiohamamura/LenovoBatteryManagementSvc](https://github.com/caiohamamura/LenovoBatteryManagementSvc)
 4. 🗣 Commented on [#1379](https://github.com/mlverse/torch/pull/1379#issuecomment-3519772695) in [mlverse/torch](https://github.com/mlverse/torch)
 <!--END_SECTION:activity-->
