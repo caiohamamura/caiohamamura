@@ -14,14 +14,16 @@
 ## What I teach
 
 <div style="display:flex;">
+<img align="center" alt="pyTorch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
+<img align="center" alt="Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+<img align="center" alt="PlatformIO" height="40" width="30" src="https://cdn.platformio.org/images/platformio-logo-xs.fd6e881d.png">
+<img align="center" alt="Django" height="30" width="40" src="[https://cdn.platformio.org/images/platformio-logo-xs.fd6e881d.png](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg)">
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
 <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
 <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 <img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
-<img align="center" alt="Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-<img align="center" alt="PlatformIO" height="40" width="30" src="https://cdn.platformio.org/images/platformio-logo-xs.fd6e881d.png">
 <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <img align="center" alt="Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -34,7 +36,6 @@
 <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Tensorflow" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
- <img align="center" alt="pyTorch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
 </div>
  
 ### Databases: 
