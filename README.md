@@ -1,6 +1,6 @@
 <div>
- <img height="180em" alt="CaioHamamura's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=caiohamamura&show_icons=true&theme=ayu-mirage">
- <img height="180em" alt="CaioHamamura's GitHub language usage" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiohamamura&size_weight=0.05&count_weight=0.95&layout=compact&theme=ayu-mirage">
+ <img height="180em" alt="CaioHamamura's GitHub stats" src="profile/stats.svg">
+ <img height="180em" alt="CaioHamamura's GitHub language usage" src="profile/top-langs.svg">
 </div>
 
 [![:total status badge](https://caiohamamura.r-universe.dev/badges/:total)](https://caiohamamura.r-universe.dev/)
