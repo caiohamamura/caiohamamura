@@ -93,8 +93,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1847](https://github.com/tzapu/WiFiManager/pull/1847) in [tzapu/WiFiManager](https://github.com/tzapu/WiFiManager)
-2. 💪 Opened PR [#1847](https://github.com/tzapu/WiFiManager/pull/1847) in [tzapu/WiFiManager](https://github.com/tzapu/WiFiManager)
-3. 🗣 Commented on [#5](https://github.com/caiohamamura/LenovoBatteryManagementSvc/issues/5#issuecomment-3820484981) in [caiohamamura/LenovoBatteryManagementSvc](https://github.com/caiohamamura/LenovoBatteryManagementSvc)
-4. 🔒 Closed issue [#5](https://github.com/caiohamamura/LenovoBatteryManagementSvc/issues/5) in [caiohamamura/LenovoBatteryManagementSvc](https://github.com/caiohamamura/LenovoBatteryManagementSvc)
+1. 🎉 Merged PR [#1849](https://github.com/tzapu/WiFiManager/pull/1849) in [tzapu/WiFiManager](https://github.com/tzapu/WiFiManager)
+2. 💪 Opened PR [#1849](https://github.com/tzapu/WiFiManager/pull/1849) in [tzapu/WiFiManager](https://github.com/tzapu/WiFiManager)
+3. 🎉 Merged PR [#1847](https://github.com/tzapu/WiFiManager/pull/1847) in [tzapu/WiFiManager](https://github.com/tzapu/WiFiManager)
+4. 💪 Opened PR [#1847](https://github.com/tzapu/WiFiManager/pull/1847) in [tzapu/WiFiManager](https://github.com/tzapu/WiFiManager)
 <!--END_SECTION:activity-->
