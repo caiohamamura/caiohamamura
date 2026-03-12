@@ -93,8 +93,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/nodemcu/espressif-sdk-archive/pull/1) in [nodemcu/espressif-sdk-archive](https://github.com/nodemcu/espressif-sdk-archive)
-2. 💪 Opened PR [#1](https://github.com/nodemcu/espressif-sdk-archive/pull/1) in [nodemcu/espressif-sdk-archive](https://github.com/nodemcu/espressif-sdk-archive)
-3. 🗣 Commented on [#1850](https://github.com/tzapu/WiFiManager/issues/1850#issuecomment-3981488050) in [tzapu/WiFiManager](https://github.com/tzapu/WiFiManager)
-4. 🗣 Commented on [#5](https://github.com/jakeson21/DHT2xProtocolAnalyzer/pull/5#issuecomment-3981461667) in [jakeson21/DHT2xProtocolAnalyzer](https://github.com/jakeson21/DHT2xProtocolAnalyzer)
+1. 🎉 Merged PR [#6](https://github.com/jakeson21/DHT2xProtocolAnalyzer/pull/6) in [jakeson21/DHT2xProtocolAnalyzer](https://github.com/jakeson21/DHT2xProtocolAnalyzer)
+2. 💪 Opened PR [#6](https://github.com/jakeson21/DHT2xProtocolAnalyzer/pull/6) in [jakeson21/DHT2xProtocolAnalyzer](https://github.com/jakeson21/DHT2xProtocolAnalyzer)
+3. 🎉 Merged PR [#1](https://github.com/nodemcu/espressif-sdk-archive/pull/1) in [nodemcu/espressif-sdk-archive](https://github.com/nodemcu/espressif-sdk-archive)
+4. 💪 Opened PR [#1](https://github.com/nodemcu/espressif-sdk-archive/pull/1) in [nodemcu/espressif-sdk-archive](https://github.com/nodemcu/espressif-sdk-archive)
 <!--END_SECTION:activity-->
