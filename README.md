@@ -93,8 +93,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [MbedTLS 2.28.10 Upgrade (Beta)](https://github.com/caiohamamura/nodemcu-firmware/releases/tag/mbedtls-2.28.10-beta) in [caiohamamura/nodemcu-firmware](https://github.com/caiohamamura/nodemcu-firmware)
-2. ❌ Closed PR [#5](https://github.com/carlos-alberto-silva/ICESat2VegR/pull/5) in [carlos-alberto-silva/ICESat2VegR](https://github.com/carlos-alberto-silva/ICESat2VegR)
-3. 🗣 Commented on [#5](https://github.com/carlos-alberto-silva/ICESat2VegR/pull/5#issuecomment-4602169598) in [carlos-alberto-silva/ICESat2VegR](https://github.com/carlos-alberto-silva/ICESat2VegR)
-4. 🗣 Commented on [#19](https://github.com/optimistengineer/remoat/pull/19#issuecomment-4583226626) in [optimistengineer/remoat](https://github.com/optimistengineer/remoat)
+1. ℹ️ Labeled issue [#10995](https://github.com/EclipseFdn/open-vsx.org/issues/10995) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+2. ℹ️ Labeled issue [#10995](https://github.com/EclipseFdn/open-vsx.org/issues/10995) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+3. ❗ Opened issue [#10995](https://github.com/EclipseFdn/open-vsx.org/issues/10995) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+4. 🎉 Merged PR [#1](https://github.com/caiohamamura/nodemcu-vscode/pull/1) in [caiohamamura/nodemcu-vscode](https://github.com/caiohamamura/nodemcu-vscode)
 <!--END_SECTION:activity-->
