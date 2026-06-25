@@ -93,7 +93,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#10995](https://github.com/EclipseFdn/open-vsx.org/issues/10995) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+1. 🗣 Commented on [#3708](https://github.com/nodemcu/nodemcu-firmware/pull/3708#issuecomment-4792733589) in [nodemcu/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware)
 2. ℹ️ Labeled issue [#10995](https://github.com/EclipseFdn/open-vsx.org/issues/10995) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
 3. ❗ Opened issue [#10995](https://github.com/EclipseFdn/open-vsx.org/issues/10995) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
 4. 🎉 Merged PR [#1](https://github.com/caiohamamura/nodemcu-vscode/pull/1) in [caiohamamura/nodemcu-vscode](https://github.com/caiohamamura/nodemcu-vscode)
