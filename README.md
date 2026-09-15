@@ -1,5 +1,5 @@
+[![Caio Hamamura GitHub stats](https://github-stats-extended.vercel.app/api?username=caiohamamura&theme=ayu-mirage)](https://github.com/stats-organization/github-stats-extended)
 <div>
- <img height="180em" alt="CaioHamamura's GitHub stats" src="profile/stats.svg">
  <img height="180em" alt="CaioHamamura's GitHub language usage" src="profile/top-langs.svg">
 </div>
 
