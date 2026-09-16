@@ -93,8 +93,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/r-hub/actions/issues/19#issuecomment-4855880778) in [r-hub/actions](https://github.com/r-hub/actions)
-2. 🗣 Commented on [#19](https://github.com/r-hub/actions/issues/19#issuecomment-4846435502) in [r-hub/actions](https://github.com/r-hub/actions)
-3. 🗣 Commented on [#3708](https://github.com/nodemcu/nodemcu-firmware/pull/3708#issuecomment-4792733589) in [nodemcu/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware)
+1. 💪 Opened PR [#2](https://github.com/caiohamamura/teste1233/pull/2) in [caiohamamura/teste1233](https://github.com/caiohamamura/teste1233)
+2. 🎉 Merged PR [#1](https://github.com/caiohamamura/teste1233/pull/1) in [caiohamamura/teste1233](https://github.com/caiohamamura/teste1233)
+3. 💪 Opened PR [#1](https://github.com/caiohamamura/teste1233/pull/1) in [caiohamamura/teste1233](https://github.com/caiohamamura/teste1233)
 4. 🎉 Merged PR [#1](https://github.com/caiohamamura/nodemcu-vscode/pull/1) in [caiohamamura/nodemcu-vscode](https://github.com/caiohamamura/nodemcu-vscode)
 <!--END_SECTION:activity-->
