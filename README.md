@@ -93,8 +93,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/caiohamamura/projsoft-5a/pull/1) in [caiohamamura/projsoft-5a](https://github.com/caiohamamura/projsoft-5a)
-2. 💪 Opened PR [#1](https://github.com/caiohamamura/projsoft-5a/pull/1) in [caiohamamura/projsoft-5a](https://github.com/caiohamamura/projsoft-5a)
-3. 💪 Opened PR [#2](https://github.com/caiohamamura/teste1233/pull/2) in [caiohamamura/teste1233](https://github.com/caiohamamura/teste1233)
-4. 🎉 Merged PR [#1](https://github.com/caiohamamura/teste1233/pull/1) in [caiohamamura/teste1233](https://github.com/caiohamamura/teste1233)
+1. 🗣 Commented on [#1](https://github.com/caiohamamura/PwshLenovoBattery/issues/1#issuecomment-5875497694) in [caiohamamura/PwshLenovoBattery](https://github.com/caiohamamura/PwshLenovoBattery)
+2. 🎉 Merged PR [#1](https://github.com/caiohamamura/projsoft-5a/pull/1) in [caiohamamura/projsoft-5a](https://github.com/caiohamamura/projsoft-5a)
+3. 💪 Opened PR [#1](https://github.com/caiohamamura/projsoft-5a/pull/1) in [caiohamamura/projsoft-5a](https://github.com/caiohamamura/projsoft-5a)
+4. 💪 Opened PR [#2](https://github.com/caiohamamura/teste1233/pull/2) in [caiohamamura/teste1233](https://github.com/caiohamamura/teste1233)
 <!--END_SECTION:activity-->
